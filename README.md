@@ -14,9 +14,13 @@ This Project is thorugh application of machine learning with python programming.
 train_test_split We are making accuracy and prediction in Iris project through Iris Dataset. This is easy and understable for machine learning staters( Naive ).
 
 # Installation Dependencies
-## 1.pip install numpy
-## 2.pip install pandas
-## 3.pip install matplotlib
-## 4.pip install seaborn
+
+1.pip install numpy
+
+2.pip install pandas
+
+3.pip install matplotlib
+
+4.pip install seaborn
 
 PS: Please do not forget to drop a star if you like it!
